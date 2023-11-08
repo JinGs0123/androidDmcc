@@ -1,0 +1,7 @@
+#Wed Nov 08 09:35:59 CST 2023
+base.1=E\:\\Android-SDK@3.95.81954_20231030\\HBuilder-Integrate-AS\\simpleDemo\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=E\:\\Android-SDK@3.95.81954_20231030\\HBuilder-Integrate-AS\\simpleDemo\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

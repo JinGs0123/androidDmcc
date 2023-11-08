@@ -1,0 +1,2 @@
+io/android/dmcc/BuildConfig.java
+ io.android.dmcc.BuildConfig
